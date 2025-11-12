@@ -1,0 +1,7 @@
+ddgs
+requests
+beautifulsoup4
+sentence-transformers
+numpy
+gradio
+torch
